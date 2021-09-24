@@ -1,4 +1,7 @@
 ---
+#Activate this widget? true/false
+active: false
+
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -10,7 +13,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'List of my students projects'
 
 content:
   # Page type to display. E.g. project.
