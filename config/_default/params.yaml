@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Machine learning research profile for Muhammad Syafiq Mohd Pozi. Researcher at Data Science Research Lab, School of Computing, Universiti Utara Malaysia'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -77,8 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -147,7 +147,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'qZuc95u41bKgMyUZ-6SRDjD1gkJT4bXIW2S59V1zcAo'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
