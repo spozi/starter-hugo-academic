@@ -11,8 +11,8 @@ date: "2021-09-25T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
-  focal_point: ""
+  caption: Screenshot from the website
+  focal_point: Smart
 
 links:
 - icon: "cog"
