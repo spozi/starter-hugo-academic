@@ -1,6 +1,6 @@
 ---
 #Activate this widget? true/false
-active: false
+active: true
 
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -13,7 +13,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: 'List of my students projects'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -32,8 +32,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Prototype
+    tag: Prototype
+  - name: Word Embedding
+    tag: Word Embedding
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
