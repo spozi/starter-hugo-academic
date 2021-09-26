@@ -13,7 +13,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: List of projects that I collaborated with, either with my students or with industries.
+subtitle: Here is the list of projects that I am involved in.
 
 content:
   # Page type to display. E.g. project.
