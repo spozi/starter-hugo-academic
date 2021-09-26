@@ -11,7 +11,7 @@ role: Senior Lecturer of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Universiti Utara Malaysia
-  url: https://www.uum.edu.my/
+  url: http://www.uum.edu.my/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning and visual question answering.
