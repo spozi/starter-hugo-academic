@@ -1,6 +1,6 @@
 ---
 #Activate this widget? true/false
-active: true
+active: false
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience

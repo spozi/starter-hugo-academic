@@ -19,7 +19,7 @@ bio: My research interests include machine learning and visual question answerin
 # Interests to show in About widget
 interests:
 - Machine Learning
-- Computational Linguistics
+- Imbalanced Learning
 - Information Retrieval
 
 # Education to show in About widget
