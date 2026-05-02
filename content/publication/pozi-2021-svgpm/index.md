@@ -12,9 +12,9 @@ authors:
 - Lina Hazmi Ajrina
 tags: []
 categories: []
-date: '2021-08-28'
+date: '2022-01-01'
 lastmod: 2021-09-24T23:19:32+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:32.072405Z'
+publishDate: '2026-05-02T08:54:50.812758Z'
 publication_types:
 - '2'
 abstract: ''

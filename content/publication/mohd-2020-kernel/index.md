@@ -10,7 +10,7 @@ authors:
 - Hasbullah Omar
 tags: []
 categories: []
-date: '2020-11-01'
+date: '2020-01-01'
 lastmod: 2021-09-24T23:19:32+08:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:31.989332Z'
+publishDate: '2026-05-02T08:54:50.342896Z'
 publication_types:
 - '2'
 abstract: ''

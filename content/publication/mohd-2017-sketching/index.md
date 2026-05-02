@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Sketching Linguistic Borders: Mobility Analysis on Multilingual Microbloggers'
+title: 'Sketching linguistic borders: Mobility analysis on multilingual microbloggers'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:30.812357Z'
+publishDate: '2026-05-02T08:54:49.020211Z'
 publication_types:
 - '1'
 abstract: ''

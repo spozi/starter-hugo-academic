@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multiclass Classification Method in Handheld Based Smartphone Gait Identification
+title: Multiclass classification method in handheld based smartphone gait identification
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:30.722655Z'
+publishDate: '2026-05-02T08:54:48.886418Z'
 publication_types:
 - '2'
 abstract: ''

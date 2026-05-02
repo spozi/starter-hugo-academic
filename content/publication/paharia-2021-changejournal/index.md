@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Change-oriented Summarization of Temporal Scholarly Document Collections by
-  Semantic Drift Analysis
+title: Change-Oriented Summarization of Temporal Scholarly Document Collections by
+  Semantic Evolution Analysis
 subtitle: ''
 summary: ''
 authors:
@@ -11,9 +11,9 @@ authors:
 - Adam Jatowt
 tags: []
 categories: []
-date: '2021-12-13'
+date: '2022-01-01'
 lastmod: 2022-01-11T16:13:32+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-11T08:13:32.573409Z'
+publishDate: '2026-05-02T08:54:50.928992Z'
 publication_types:
 - '2'
 abstract: ''

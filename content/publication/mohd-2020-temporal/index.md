@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Temporal Summarization of Scholarly Paper Collections by Semantic Change Estimation:
-  Case Study of CORD-19 Dataset'
+title: 'Temporal summarization of scholarly paper collections by semantic change estimation:
+  Case study of CORD-19 dataset'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:31.784227Z'
+publishDate: '2026-05-02T08:54:50.106862Z'
 publication_types:
 - '1'
 abstract: ''

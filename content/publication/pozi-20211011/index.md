@@ -6,9 +6,9 @@ title: A Malaysian scholar identification model based on word2vec-based-stylomet
 subtitle: ''
 summary: ''
 authors:
-- M.S.M. Pozi
-- M.A.A. Rahman
-- A.R.A. Raziff
+- Muhammad Syafiq Mohd Pozi
+- Muhamad Azwan Abd Rahman
+- Abdul Raziff Abdul Rafiez
 tags: []
 categories: []
 date: '2021-01-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-11T05:54:11.362942Z'
+publishDate: '2026-05-02T08:54:50.692563Z'
 publication_types:
 - '2'
 abstract: ''

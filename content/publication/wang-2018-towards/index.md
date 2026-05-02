@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Towards understanding cross-cultural crowd sentiment using social media
+title: Towards Understanding Cross-Cultural Crowd Sentiment Using Social Media
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:30.994729Z'
+publishDate: '2026-05-02T08:54:49.316566Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Conference on Information*'
+publication: '*Transforming Digital Worlds: 13th International Conference, iConference
+  2018, Sheffield, UK, March 25-28, 2018, Proceedings 13*'
 ---

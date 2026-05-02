@@ -32,10 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-24T15:19:30.538833Z'
+publishDate: '2026-05-02T08:54:48.758875Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Symposium on Web and Wireless Geographical Information
-  Systems*'
+publication: '*Web and Wireless Geographical Information Systems: 15th International
+  Symposium, W2GIS 2017, Shanghai, China, May 8-9, 2017, Proceedings 15*'
 ---
